@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 076c3cc21a277c644b3d0ddbadeb1d90, type: 3}
+  m_Name: Spear
+  m_EditorClassIdentifier: 
+  weapon: {fileID: 8071034281500190621, guid: 417af2cb9a5f8644e8fb8c2d5fb777ee, type: 3}
+  cd: 1
+  dmg: 3.5
+  range: 0
