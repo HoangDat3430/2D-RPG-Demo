@@ -4,4 +4,4 @@ Currently all features are in the demo process, I will complete and optimize thi
 
 Please clone this repository and open project by Unity Hub to check it out (I used Unity Editor ver 2022.3.21f1 on my PC during developing process)
 # My record demo link
-If you want to see my demo, please check: [https://drive.google.com/drive/folders/1RKSAlv8hRnct2KzA5O_kXCUYNi4w-ve8](https://youtu.be/hx2RGWLkZvU)
+If you want to see my demo, please check: [[https://drive.google.com/drive/folders/1RKSAlv8hRnct2KzA5O_kXCUYNi4w-ve8](https://youtu.be/hx2RGWLkZvU)](https://youtu.be/jllp9WPRiEc)
