@@ -1,4 +1,4 @@
-# This is a demo for KongStudio application
+# This is a 2D RPG demo of my personal project.
 This is a 2D RPG. The player needs to control Ethan to fight enemies. With a diverse weapon system with many different attack mechanisms. There are also have the penalty when player died, they will be reborn at the beginning of the game.
 Currently all features are in the demo process, I will complete and optimize this project in the future.
 
